@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PingApp/static/css/main.540d9e40.css",
+    "main.js": "/PingApp/static/js/main.fec6ac9d.js",
+    "index.html": "/PingApp/index.html",
+    "main.540d9e40.css.map": "/PingApp/static/css/main.540d9e40.css.map",
+    "main.fec6ac9d.js.map": "/PingApp/static/js/main.fec6ac9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.540d9e40.css",
+    "static/js/main.fec6ac9d.js"
+  ]
+}
