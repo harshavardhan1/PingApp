@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/PingApp/static/css/main.540d9e40.css",
-    "main.js": "/PingApp/static/js/main.fec6ac9d.js",
+    "main.css": "/PingApp/static/css/main.097302a1.css",
+    "main.js": "/PingApp/static/js/main.c796800a.js",
     "index.html": "/PingApp/index.html",
-    "main.540d9e40.css.map": "/PingApp/static/css/main.540d9e40.css.map",
-    "main.fec6ac9d.js.map": "/PingApp/static/js/main.fec6ac9d.js.map"
+    "main.097302a1.css.map": "/PingApp/static/css/main.097302a1.css.map",
+    "main.c796800a.js.map": "/PingApp/static/js/main.c796800a.js.map"
   },
   "entrypoints": [
-    "static/css/main.540d9e40.css",
-    "static/js/main.fec6ac9d.js"
+    "static/css/main.097302a1.css",
+    "static/js/main.c796800a.js"
   ]
 }
